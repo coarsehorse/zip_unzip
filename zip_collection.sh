@@ -1,5 +1,5 @@
 # Mask of dirs to zip
-mask='exclusive_coll_*'
+mask='*exclusive_coll_*'
 
 sw='/storage/emulated/0/SpeedSoftware/'
 archives_dir="${sw}Archives/"
