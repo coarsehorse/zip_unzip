@@ -1,7 +1,7 @@
 # Mask of zip files to extract
 mask='exclusive_col_*.zip'
 
-sw='/c/Users/User/Desktop/zip_unzip/storage/emulated/0/SpeedSoftware/'
+sw='/storage/emulated/0/SpeedSoftware/'
 archives_dir="${sw}Archives/"
 extracted_dir="${sw}Extracted/"
 
