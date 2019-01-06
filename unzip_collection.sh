@@ -1,5 +1,5 @@
 # Mask of zip files to extract
-mask='*exclusive_coll_*.zip'
+mask='.exclusive_coll_*.zip'
 
 sw='/storage/emulated/0/SpeedSoftware/'
 archives_dir="${sw}Archives/"
